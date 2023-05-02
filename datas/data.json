@@ -1,0 +1,55 @@
+[
+    {
+      "id": 1,
+      "img_url": "https://www.gluwee.com/wp-content/uploads/2022/09/CZN-Burak.jpg",
+      "name": "CZN Burak",
+      "year_of_experience": 5,
+      "recipes_names": ["Shish Tawook", "Kibbeh Nayyeh", "Tabbouleh Salad"],
+      "likes": 500,
+      "detail_link": "https://www.gluwee.com/czn-burak/"
+    },
+    {
+      "id": 2,
+      "img_url": "https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2022/09/23/3456736-206646422.jpeg?itok=_GfJZhEz",
+      "name": " Rakan Al-Oraifi",
+      "year_of_experience": 3,
+      "recipes_names": ["Mansaf", "Falafel", "Hummus"],
+      "likes": 700,
+      "detail_link": "https://www.arabnews.com/node/2168106/lifestyle"
+    },
+    {
+      "id": 3,
+      "img_url": "https://www.hozpitalityplus.com/upload/photos/2018/09/P3tfcseQowekQu9VoQRI_06_78d74a67b0202a1b887116119230f0df_image.jpg",
+      "name": "Ahmed Allithy",
+      "year_of_experience": 9,
+      "recipes_names": ["Kabsa", "Mandi", "Shakshuka"],
+      "likes": 900,
+      "detail_link": "https://www.hozpitalityplus.com/read-article/28_a-interview-with-ahmed-allithy-arabic-chef-at-courtyard-by-marriott-world-trade.html"
+    },
+    {
+      "id": 4,
+      "img_url": "https://www.albawaba.com/sites/default/files/styles/d08_traditional/public/im/ss-yaser-1-2016.jpg?itok=nzuE9MYq",
+      "name": " Mahmud Mansur",
+      "year_of_experience": 6,
+      "recipes_names": ["Fattoush Salad", "Shawarma", "Baba Ghanoush"],
+      "likes": 400,
+      "detail_link": "https://academichelp.net/samples/academics/reviews/movie/documentary-saudi-arabia-cooks.html"
+    },
+    {
+      "id": 5,
+      "img_url": "https://curlytales.com/wp-content/uploads/2021/04/chef-2.jpg",
+      "year_of_experience": 8,
+      "recipes_names": ["Kanafeh", "Moussaka", "Baklava"],
+      "likes": 800,
+      "detail_link": "https://curlytales.com/taking-off-the-abaya-donning-the-chefs-hat-heres-how-uaes-first-female-chef-spills-made-heads-turn/"
+    },
+    {
+      "id": 6,
+      "img_url": "https://www.caterermiddleeast.com/2021/05/HBw6OH3S-Mashael-Iprahim-Almushawwah,-commis,-56th-Avenue-Diner,-Hyatt-Regency-Riyadh-Olaya,-Saudi-Arabia.jpg",
+      "name": "Mashael Iprahim",
+      "year_of_experience": 10,
+      "recipes_names": ["Ful Medames", "Mujadara", "Kunafa"],
+      "likes": 1100,
+      "detail_link": "https://www.caterermiddleeast.com/events/caterer-awards/80595-female-saudi-chef-wins-kitchen-hero-of-the-year-award"
+    }
+  ]
