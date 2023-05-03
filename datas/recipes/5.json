@@ -1,0 +1,90 @@
+[
+    {
+        "id": 5,
+        "img_url": "https://curlytales.com/wp-content/uploads/2021/04/chef-2.jpg",
+        "name": " Khulood Atiq",
+        "year_of_experience": 8,
+        "recipes_names": "Kanafeh, Moussaka, Baklava",
+        "likes": 800,
+        "detail_link": "https://curlytales.com/taking-off-the-abaya-donning-the-chefs-hat-heres-how-uaes-first-female-chef-spills-made-heads-turn/",
+        "detail": "Watching the women of the house whip up Emirati delicacies is how Khulood recollects her childhood. Born in Dubai, she dropped out of school five times and finally found her calling in cooking. It all started when her brother asked her what her plans were and she instantly blurted out that she wanted to cook. This was when things turned for her. Khulood then enrolled as a culinary assistant with the Jumeirah Group of Hotels. And from there, there was no looking back. From 2008 to 2010 she held an Emirati-speciality chef position at Mina Al Salam, Jumeirah Group, where she was responsible for creating an Emirati menu. Passion turned into a profession and she took on her first professional cooking role as an assistant for Chef Ali for ‘Hani Wafia’- a food show on Samaa TV. Later, she was appointed by the Abu Dhabi Tourism Development and Investment Company (TDIC), as the Arabian and Emirati cuisine specialist. Here, she was responsible to develop and preserve local culture by introducing Arabic and Emirati dishes at food and beverage outlets in the UAE."
+      },
+      {
+        "recipes": [
+            {
+                "name": "KANAFEH",
+                "r_img": "https://winedharma.com/wine-dharma/uploads/2020/10/Kanafeh-ricetta-originale-dolce-con-pasta-fillo-formaggio-e-miele-dolce-turco.jpg",
+                "ingredients": [
+                    "1 package kataifi pastry (shredded phyllo dough)",
+                    "1 1/2 cups unsalted butter, melted",
+                    "2 cups unsalted mozzarella cheese, grated",
+                    "1 cup unsalted ricotta cheese",
+                    "1/2 cup sugar",
+                    "1/2 cup water",
+                    "1 tablespoon lemon juice",
+                    "1/4 cup pistachios, chopped"
+                  ],
+                "cooking_method": [
+                    "Preheat your oven to 350°F (180°C).",
+                    "In a large bowl, separate the strands of kataifi pastry and use your hands to loosen and fluff them up.",
+                    "Pour the melted butter over the kataifi and use your hands to mix until all the strands are coated.",
+                    "Grease a large baking dish with butter and evenly spread half of the kataifi pastry in the bottom of the dish, pressing it down firmly.",
+                    "In a separate bowl, mix together the mozzarella and ricotta cheese until well combined.",
+                    "Spread the cheese mixture over the kataifi in the baking dish, using a spatula to smooth it out evenly.",
+                    "Cover the cheese layer with the remaining kataifi pastry, again pressing it down firmly.",
+                    "Sprinkle the chopped pistachios over the top of the kanafah.",
+                    "Allow the kanafah to cool for at least 10 minutes before serving. Serve warm and enjoy!"
+                    ],
+                "ratting": "4"
+            },
+            {
+                "name": "MOUSSAKA",
+                "r_img": "https://cookingcounty.com/wp-content/uploads/2022/12/mousaka-recipe.webp",
+                "ingredients":["2 large eggplants, sliced into 1/4 inch rounds",
+                "1 lb ground lamb or beef",
+                "1 onion, chopped",
+                "2 garlic cloves, minced",
+                "1 can (14 oz) diced tomatoes",
+                "1 tsp ground cinnamon",
+                "1/2 tsp ground allspice"],
+                "cooking_method":[
+                    "Preheat your oven to 375°F (190°C).",
+                    "Arrange the eggplant slices in a single layer on a baking sheet and sprinkle them with salt. Let them sit for 30 minutes to draw out any excess moisture, then pat them dry with paper towels.",
+                    "Heat a large skillet over medium-high heat and cook the ground lamb or beef until browned and crumbly. Add the chopped onion and minced garlic and cook for another 2-3 minutes.",
+                    "Add the diced tomatoes, cinnamon, allspice, nutmeg, salt, and pepper to the skillet. Simmer for 10-15 minutes until the mixture has thickened. Stir in the chopped parsley and mint.",
+                    "In a separate saucepan, melt the butter over medium heat. Whisk in the flour until smooth and cook for 1-2 minutes. Gradually whisk in the milk and cook for 5-7 minutes until the mixture has thickened. Remove from heat and let it cool slightly.",
+                    "Whisk the eggs and Parmesan cheese into the milk mixture.",
+                    "Grease a 9x13 inch baking dish with butter or cooking spray. Arrange half of the eggplant slices in the bottom of the dish, overlapping them slightly. Pour the meat mixture over the eggplant and spread it evenly. Arrange the remaining eggplant slices on top of the meat mixture. Pour the milk mixture over the top, spreading it evenly.",
+                    "Bake the moussaka in the preheated oven for 45-50 minutes, until the top is golden brown and the filling is set."
+                    ],
+                "ratting": "5"
+            },
+            {
+                "name": "BAKLAVA",
+                "r_img": "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/03/14/190495.jpg",
+                "ingredients":[
+                    "1 pound phyllo dough",
+                    "1 cup unsalted butter, melted",
+                    "1 pound chopped walnuts or pistachios",
+                    "1 teaspoon ground cinnamon",
+                    "1/2 teaspoon ground cloves",
+                    "1 cup granulated sugar",
+                    "1 cup water",
+                    "1/2 cup honey",
+                    "1 tablespoon fresh lemon juice"
+                ],
+                "cooking_method": [
+                    "Preheat your oven to 350°F (180°C).",
+                    "In a large bowl, mix together the chopped nuts, cinnamon, and cloves.",
+                    "Grease a 9x13 inch baking dish with butter.",
+                    "Lay a sheet of phyllo dough in the bottom of the baking dish and brush it with melted butter. Repeat with several more layers of phyllo dough, brushing each layer with butter.",
+                    "Spread a layer of the nut mixture over the phyllo dough.",
+                    "Add another layer of phyllo dough on top of the nut mixture and brush it with butter. Repeat with several more layers of phyllo dough, brushing each layer with butter.",
+                    "Add another layer of the nut mixture over the phyllo dough and repeat with more layers of phyllo dough and butter until all the nut mixture is used up."
+                    ],
+                "ratting": "4.2"
+            }
+
+        ]
+      }
+]

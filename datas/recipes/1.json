@@ -1,0 +1,60 @@
+[
+    {
+      "id": 1,
+      "img_url": "https://www.gluwee.com/wp-content/uploads/2022/09/CZN-Burak.jpg",
+      "name": "CZN Burak",
+      "year_of_experience": 10,
+      "recipes_names": "Shish Tawook, Kibbeh Nayyeh, Tabbouleh Salad",
+      "likes": 1900,
+      "detail_link": "https://www.gluwee.com/czn-burak/",
+      "detail": "CZN Burak decided to become a culinary influencer when he noticed a significant shortage of culinary content on social media platforms. So, he began sharing videos of his cooking. His videos quickly became hits in several countries, making him an international culinary star. His career took off after he made his first viral video about cooking the 40-inch kebab. In one of his most popular videos, he even cooked and roasted an entire ostrich. In addition, he is also known for his unique way of creating videos as he always looks at the camera without even looking at what he is cooking. Besides being a culinary star, he is also a restaurateur. He is the owner of the Hatay Civilizations Table restaurant chain in Turkey. He has opened several branches of his culinary brand in Turkey, following in the footsteps of his father, who was also a chef and a restaurateur."
+    },
+    {
+        "recipes": [
+            {
+                "name": "SHISH TAWOOK",
+                "r_img": "https://www.alphafoodie.com/wp-content/uploads/2023/01/Shish-Tawook-square-2023.jpeg",
+                "ingredients":[  "1.5 lbs chicken breast, cubed",  "1 cup plain yogurt",  "4 cloves garlic, minced",  "1/4 cup lemon juice",  "1/4 cup olive oil",  "1 tsp salt",  "1/2 tsp black pepper",  "Wooden skewers (soaked in water for 30 minutes)"],
+                "cooking_method": [  "In a large mixing bowl, whisk together the yogurt, garlic, lemon juice, olive oil, salt, and black pepper.",  "Add the cubed chicken to the marinade and mix well, making sure all the chicken pieces are coated with the marinade.",  "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or up to overnight.",  "When ready to cook, preheat the grill to medium-high heat.",  "Thread the chicken pieces onto the wooden skewers, leaving a little space in between each piece.",  "Place the skewers on the grill and cook for about 10-12 minutes, turning occasionally, until the chicken is cooked through and slightly charred.",  "Remove the skewers from the grill and let them rest for a few minutes.",  "Serve hot with a side of salad, rice, or pita bread.",  "note: If you don't have a grill, you can also cook the chicken skewers in a preheated oven at 400°F (200°C) for 15-20 minutes, or until cooked through."],
+                "ratting": "5"
+            },
+            {
+                "name": "KIBBEH NAYYEH",
+                "r_img": "https://www.mamaslebanesekitchen.com/wp-content/uploads/2011/09/kibbeh3.jpg",
+                "ingredients":[
+                    "1 lb ground beef or lamb",
+                    "1 cup fine bulgur wheat",
+                    "1 medium onion, finely chopped",
+                    "1 tsp salt",
+                    "1/2 tsp black pepper",
+                    "Fresh mint leaves (optional, for garnish",
+                    "Pita bread or crackers (for serving)"
+                  ],
+                "cooking_method": [
+                    "Rinse the bulgur wheat in cold water, then drain and squeeze out any excess water.",
+                    "In a large mixing bowl, combine the ground beef or lamb, bulgur wheat, chopped onion, salt, black pepper, cinnamon, and allspice. Use your hands to mix the ingredients together until well combined.",
+                    "Transfer the mixture to a food processor and pulse until the mixture is finely ground and forms a smooth paste. (Alternatively, you can continue mixing and kneading the mixture by hand until it forms a smooth and homogeneous paste.)",
+                    "Transfer the kibbeh nayyeh to a serving dish and shape it into a round or oval mound. Use a knife or spatula to create a few decorative lines or grooves on the surface of the kibbeh.",
+                    "Garnish the kibbeh nayyeh with fresh mint leaves (if using), and serve immediately with pita bread or crackers.",
+                    "Kibbeh Nayyeh is a raw meat dish, so it's important to use fresh and high-quality meat, and to handle it with care to avoid any contamination. It's also recommended to refrigerate the kibbeh nayyeh for at least 1 hour before serving, to allow the flavors to meld together and the texture to firm up slightly."
+                  ],
+                "ratting": "4.5"
+            },
+            {
+                "name": "TABBOULEH SALAD",
+                "r_img": "https://www.simplyleb.com/wp-content/uploads/Tabbouleh-6.jpg",
+                "ingredients":[  "1 cup fine bulgur wheat",  "1 large bunch flat-leaf parsley, finely chopped",  "1/2 bunch fresh mint leaves, finely chopped",  "3 medium tomatoes, diced",  "1 small red onion, finely chopped",  "1/4 cup extra-virgin olive oil",  "1/4 cup fresh lemon juice",  "1 tsp salt",  "1/2 tsp black pepper"],
+                "cooking_method": [
+                    "Rinse the bulgur wheat in cold water, then drain and squeeze out any excess water. Place the bulgur in a large mixing bowl.",
+                    "Pour boiling water over the bulgur to cover it by about 1 inch. Let the bulgur soak for about 20 minutes, until it's soft and tender. Drain any excess water.",
+                    "Add the chopped parsley, mint, tomatoes, and red onion to the bowl with the bulgur.",
+                    "In a separate small bowl, whisk together the olive oil, lemon juice, salt, and black pepper. Pour the dressing over the salad and toss gently to combine.",
+                    "Cover the bowl with plastic wrap and refrigerate for at least 1 hour (or up to overnight) to allow the flavors to meld together.",
+                    "Before serving, give the salad a quick toss and adjust the seasoning if needed. Serve chilled or at room temperature, as a side dish or a main course.",
+                    "Tabbouleh Salad can be customized to your liking by adjusting the ratios of the ingredients or adding other vegetables, such as cucumber or bell peppers. You can also use quinoa or couscous instead of bulgur, or omit the grain altogether for a grain-free version."
+                  ],
+                "ratting": "4.8"
+            }
+        ]
+    }
+]
