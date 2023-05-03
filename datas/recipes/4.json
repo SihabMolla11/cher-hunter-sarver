@@ -7,71 +7,69 @@
       "recipes_names": "Fattoush Salad, Shawarma, Baba Ghanoush",
       "likes": 400,
       "detail_link": "https://academichelp.net/samples/academics/reviews/movie/documentary-saudi-arabia-cooks.html",
-        "detail": "Huffton follows three men: a television show chef, Nusrat Mahdi—a man who does not have work, while his wife does, Mahmud Mansur—and a recipe book writer, Fadi Baahir. Through interviews and taking a scope into their lives, the director unveils the rising focus on culinary arts as a vocation for men in modern Saudi Arabia. The stories illustrate there is a backlash against these reformations of gender roles. Strict religious Islamic figures, such as from the school of Hanbali thought, have raised concerns with the scaling back of gender norms (Fredrick 253). No riots have begun as of yet, but petitions have been made to King Abdullah to cut the careers of two men mentioned beforehand: Nusrat Mahdi and Fadi Baahir (Said 56). Though this film provides an expert glimpse into the cultural habits of Saudi Arabia and the not-so-apparent social change in the vocation of culinary arts, the presentation of the cinematography could be largely enhanced. Some scenes are blurred, as in the backgrounds. This effect did create more attention on the characters, yet it disturbed my viewing of the film and seemed to be connected to more amateurish techniques of lens effects. Another conundrum that could be pointed out was that the stories of the characters could have been more prudent in their focus. Huffton chose to examine some rather unnecessary details in the lives of the characters, especially with the stay-at-home dad, Mahmud Mansur. Instead of concentrating on his cooking habits as the main attraction of this introduction as characters, the director supplied the viewers with details about his past history and extracurricular activities, which did not seem to tie into the theme of the documentary. I was impressed, though, by the characters’ candidness in light of being filmed in such a conservative country. The interviewees were fully open to explore their vocations and let no information be aside for later discussion. In this way, one can say this film is politically driven and is a plea for a shift in Saudi reasoning according to its future advancement socially. Although the country is ruled by an absolute monarchy, this does not mean it cannot change its gender norms in due time."
-      },
-      {
+        "detail": "Huffton follows three men: a television show chef, Nusrat Mahdi—a man who does not have work, while his wife does, Mahmud Mansur—and a recipe book writer, Fadi Baahir. Through interviews and taking a scope into their lives, the director unveils the rising focus on culinary arts as a vocation for men in modern Saudi Arabia. The stories illustrate there is a backlash against these reformations of gender roles. Strict religious Islamic figures, such as from the school of Hanbali thought, have raised concerns with the scaling back of gender norms (Fredrick 253). No riots have begun as of yet, but petitions have been made to King Abdullah to cut the careers of two men mentioned beforehand: Nusrat Mahdi and Fadi Baahir (Said 56). Though this film provides an expert glimpse into the cultural habits of Saudi Arabia and the not-so-apparent social change in the vocation of culinary arts, the presentation of the cinematography could be largely enhanced. Some scenes are blurred, as in the backgrounds. This effect did create more attention on the characters, yet it disturbed my viewing of the film and seemed to be connected to more amateurish techniques of lens effects. Another conundrum that could be pointed out was that the stories of the characters could have been more prudent in their focus. Huffton chose to examine some rather unnecessary details in the lives of the characters, especially with the stay-at-home dad, Mahmud Mansur. Instead of concentrating on his cooking habits as the main attraction of this introduction as characters, the director supplied the viewers with details about his past history and extracurricular activities, which did not seem to tie into the theme of the documentary. I was impressed, though, by the characters’ candidness in light of being filmed in such a conservative country. The interviewees were fully open to explore their vocations and let no information be aside for later discussion. In this way, one can say this film is politically driven and is a plea for a shift in Saudi reasoning according to its future advancement socially. Although the country is ruled by an absolute monarchy, this does not mean it cannot change its gender norms in due time.",
         "recipes": [
-            {
-                "name": "FATTOUSH SALAD",
-                "r_img": "https://www.sbs.com.au/food/sites/sbs.com.au.food/files/styles/full/public/fattoush-salad.jpg?itok=DADWsX6G",
-                "ingredients":[
-                    "1 head of romaine lettuce, chopped",
-                    "1 cucumber, diced",
-                    "2 tomatoes, diced",
-                    "1/4 cup chopped fresh mint",
-                    "1 tbsp olive oil",
-                    "Salt and pepper to taste",
-                    "2-3 pita breads"
-                  ],
-                "cooking_method": [
-                    "Preheat the oven to 350°F (175°C).",
-                    "Cut the pita breads into bite-sized pieces and place them on a baking sheet. Drizzle with a bit of olive oil and season with salt and pepper. Bake for 10-15 minutes or until crispy.",
-                    "In a large bowl, combine the chopped romaine lettuce, diced cucumber, tomatoes, green bell pepper, red onion, parsley, and mint.",
-                    "In a small bowl, whisk together the olive oil, lemon juice, sumac, salt, and pepper until well combined.",
-                    "Pour the dressing over the salad and toss to coat.",
-                    "Add the baked pita chips to the salad and toss again.",
-                    "Serve immediately and enjoy!"
-                  ],
-                "ratting": "4.0"
-            },
-            {
-                "name": "SHAWARMA",
-                "r_img": "https://img.taste.com.au/QNJv0BTv/w720-h480-cfill-q80/taste/2022/10/easy-lamb-shawarma-salad-182074-2.jpg",
-                "ingredients":[
-                    "1 lb boneless, skinless chicken thighs, thinly sliced",
-                    "1/4 cup olive oil",
-                    "1/2 tsp ground cinnamon",
-                    "Sliced tomatoes",
-                    "Chopped parsley or cilantro",
-                    "Tahini sauce or garlic sauce for serving"
-                  ],
-                "cooking_method": [
-                    "In a large mixing bowl, combine the sliced chicken thighs, olive oil, lemon juice, minced garlic, cumin, paprika, coriander, cinnamon, allspice, salt, and pepper. Mix well to coat the chicken with the marinade. Cover and refrigerate for at least 30 minutes, or up to overnight.",
-                    "Preheat a grill or grill pan over medium-high heat.",
-                    "Thread the marinated chicken slices onto skewers, leaving a bit of space between each piece.",
-                    "Grill the chicken skewers for about 8-10 minutes, turning occasionally, until the chicken is cooked through and slightly charred.",
-                    "Remove the chicken from the skewers and set aside.",
-                    "Assemble the shawarma by placing the grilled chicken, sliced tomatoes, sliced cucumbers, and chopped parsley or cilantro in the pita bread. Drizzle with tahini sauce or garlic sauce, if desired."
-                  ],
-                "ratting": "4.9"
-            },
-            {
-                "name": "BABA GHANOUSH",
-                "r_img": "https://maninio.com/wp-content/uploads/2017/11/The-original-Arabic-Baba-Ganoush3.jpg",
-                "ingredients":
-                    ["2 medium-sized eggplants","1/4 cup tahini", "3 tbsp lemon juice", "2 garlic cloves, minced", "1/4 tsp ground cumin", "Salt and pepper to taste", "Chopped parsley for garnish"],
+          {
+              "name": "FATTOUSH SALAD",
+              "r_img": "https://www.sbs.com.au/food/sites/sbs.com.au.food/files/styles/full/public/fattoush-salad.jpg?itok=DADWsX6G",
+              "ingredients":[
+                  "1 head of romaine lettuce, chopped",
+                  "1 cucumber, diced",
+                  "2 tomatoes, diced",
+                  "1/4 cup chopped fresh mint",
+                  "1 tbsp olive oil",
+                  "Salt and pepper to taste",
+                  "2-3 pita breads"
+                ],
+              "cooking_method": [
+                  "Preheat the oven to 350°F (175°C).",
+                  "Cut the pita breads into bite-sized pieces and place them on a baking sheet. Drizzle with a bit of olive oil and season with salt and pepper. Bake for 10-15 minutes or until crispy.",
+                  "In a large bowl, combine the chopped romaine lettuce, diced cucumber, tomatoes, green bell pepper, red onion, parsley, and mint.",
+                  "In a small bowl, whisk together the olive oil, lemon juice, sumac, salt, and pepper until well combined.",
+                  "Pour the dressing over the salad and toss to coat.",
+                  "Add the baked pita chips to the salad and toss again.",
+                  "Serve immediately and enjoy!"
+                ],
+              "ratting": "4.0"
+          },
+          {
+              "name": "SHAWARMA",
+              "r_img": "https://img.taste.com.au/QNJv0BTv/w720-h480-cfill-q80/taste/2022/10/easy-lamb-shawarma-salad-182074-2.jpg",
+              "ingredients":[
+                  "1 lb boneless, skinless chicken thighs, thinly sliced",
+                  "1/4 cup olive oil",
+                  "1/2 tsp ground cinnamon",
+                  "Sliced tomatoes",
+                  "Chopped parsley or cilantro",
+                  "Tahini sauce or garlic sauce for serving"
+                ],
+              "cooking_method": [
+                  "In a large mixing bowl, combine the sliced chicken thighs, olive oil, lemon juice, minced garlic, cumin, paprika, coriander, cinnamon, allspice, salt, and pepper. Mix well to coat the chicken with the marinade. Cover and refrigerate for at least 30 minutes, or up to overnight.",
+                  "Preheat a grill or grill pan over medium-high heat.",
+                  "Thread the marinated chicken slices onto skewers, leaving a bit of space between each piece.",
+                  "Grill the chicken skewers for about 8-10 minutes, turning occasionally, until the chicken is cooked through and slightly charred.",
+                  "Remove the chicken from the skewers and set aside.",
+                  "Assemble the shawarma by placing the grilled chicken, sliced tomatoes, sliced cucumbers, and chopped parsley or cilantro in the pita bread. Drizzle with tahini sauce or garlic sauce, if desired."
+                ],
+              "ratting": "4.9"
+          },
+          {
+              "name": "BABA GHANOUSH",
+              "r_img": "https://maninio.com/wp-content/uploads/2017/11/The-original-Arabic-Baba-Ganoush3.jpg",
+              "ingredients":
+                  ["2 medium-sized eggplants","1/4 cup tahini", "3 tbsp lemon juice", "2 garlic cloves, minced", "1/4 tsp ground cumin", "Salt and pepper to taste", "Chopped parsley for garnish"],
 
-                    "cooking_method": [
-                        "Preheat the oven to 400°F (200°C).",
-                        "Prick the eggplants all over with a fork and place them on a baking sheet. Roast the eggplants in the preheated oven for about 40-45 minutes, or until they are completely soft and tender.",
-                        "Remove the eggplants from the oven and let them cool for a few minutes.",
-                        "Cut the eggplants in half lengthwise and scoop out the flesh with a spoon. Discard the skins.",
-                        "Place the eggplant flesh in a food processor or blender. Add the tahini, lemon juice, minced garlic, ground cumin, salt, and pepper. Pulse until the mixture is smooth and well combined.",
-                        "Transfer the Baba Ghanoush to a serving bowl and drizzle with olive oil. Garnish with chopped parsley."
-                    ],
-                "ratting": "5"
-            }
+                  "cooking_method": [
+                      "Preheat the oven to 400°F (200°C).",
+                      "Prick the eggplants all over with a fork and place them on a baking sheet. Roast the eggplants in the preheated oven for about 40-45 minutes, or until they are completely soft and tender.",
+                      "Remove the eggplants from the oven and let them cool for a few minutes.",
+                      "Cut the eggplants in half lengthwise and scoop out the flesh with a spoon. Discard the skins.",
+                      "Place the eggplant flesh in a food processor or blender. Add the tahini, lemon juice, minced garlic, ground cumin, salt, and pepper. Pulse until the mixture is smooth and well combined.",
+                      "Transfer the Baba Ghanoush to a serving bowl and drizzle with olive oil. Garnish with chopped parsley."
+                  ],
+              "ratting": "5"
+          }
 
-        ]
+      ]
       }
 ]
