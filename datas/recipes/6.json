@@ -10,6 +10,7 @@
         "detail": "Mashael Iprahim Almushawwah is a commis at 56th Avenue Diner at Hyatt Regency Riyadh Olaya and she wowed the judges with her passion for cooking and innovative techniques. She is known for her willingness to share and recommend local recipes, while at the front-of-house her welcoming nature helps to provide guests with true Saudi hospitality. Unfortunately, Almushawwah couldn’t attend the awards at the JW Marriott Marquis due to staffing issues at her venue, and ever the kitchen hero she wouldn’t leave them further short-staffed. Caterer Middle East editor Simon Ritchie presented the award to Samantha Wood, food writer at FooDiva and one of this year’s judging panel, on behalf of Almushawwah. Wood said: “The kitchen is known as the heart of the house. As a female working in Saudi, this lady has gone out of her way and proven that she was more than capable of doing that job. Awards like this are great as they give recognition for women in this industry and I hope it will give her wings to explore her career further in her hotel or elsewhere.” Her colleagues also spoke highly of Almushawwah in their testimonials in her nomination, with 56th Avenue Diner restaurant manager Ahmad Mubaideen, saying: “Mashael’s touch to the local cuisine at the breakfast has positively contributed to HySat scores for food and beverage. Our scores for Saudi cuisine have significantly improved when compared to last year.”",
         "recipes": [
             {
+                "_id": 1,
                 "name": "FUL MEDAMES",
                 "r_img": "https://cdn.shopify.com/s/files/1/0111/1729/7722/articles/timthumb_c59c0376-f46b-4969-a7ab-b9901e95eaec.jpg?v=1531317177",
                 "ingredients":["2 cans (15 oz each) cooked fava beans, drained and rinsed",
@@ -28,6 +29,7 @@
                 "ratting": "5"
             },
             {
+                "_id": 2,
                 "name": "MUJADARA",
                 "r_img": "https://www.feastingathome.com/wp-content/uploads/2018/10/instant-pot-mujadara-100.jpg",
                 "ingredients":["1 cup dried green or brown lentils",
@@ -46,6 +48,7 @@
                 "ratting": "4.9"
             },
             {
+                "_id": 3,
                 "name": "CHICKEN KABASA",
                 "r_img": "https://c.ndtvimg.com/2021-04/9s8mb8no_chicken-kabsa_625x300_30_April_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
                 "ingredients":[

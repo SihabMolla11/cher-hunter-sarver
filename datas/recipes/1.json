@@ -10,6 +10,7 @@
       "detail": "CZN Burak decided to become a culinary influencer when he noticed a significant shortage of culinary content on social media platforms. So, he began sharing videos of his cooking. His videos quickly became hits in several countries, making him an international culinary star. His career took off after he made his first viral video about cooking the 40-inch kebab. In one of his most popular videos, he even cooked and roasted an entire ostrich. In addition, he is also known for his unique way of creating videos as he always looks at the camera without even looking at what he is cooking. Besides being a culinary star, he is also a restaurateur. He is the owner of the Hatay Civilizations Table restaurant chain in Turkey. He has opened several branches of his culinary brand in Turkey, following in the footsteps of his father, who was also a chef and a restaurateur.",
       "recipes": [
         {
+            "_id": 1,
             "name": "SHISH TAWOOK",
             "r_img": "https://www.alphafoodie.com/wp-content/uploads/2023/01/Shish-Tawook-square-2023.jpeg",
             "ingredients":[  "1.5 lbs chicken breast, cubed",  "1 cup plain yogurt",  "4 cloves garlic, minced",  "1/4 cup lemon juice",  "1/4 cup olive oil",  "1 tsp salt",  "1/2 tsp black pepper",  "Wooden skewers (soaked in water for 30 minutes)"],
@@ -17,6 +18,7 @@
             "ratting": "5"
         },
         {
+            "_id": 2,
             "name": "KIBBEH NAYYEH",
             "r_img": "https://www.mamaslebanesekitchen.com/wp-content/uploads/2011/09/kibbeh3.jpg",
             "ingredients":[
@@ -39,6 +41,7 @@
             "ratting": "4.5"
         },
         {
+          "_id": 3,
             "name": "TABBOULEH SALAD",
             "r_img": "https://www.simplyleb.com/wp-content/uploads/Tabbouleh-6.jpg",
             "ingredients":[  "1 cup fine bulgur wheat",  "1 large bunch flat-leaf parsley, finely chopped",  "1/2 bunch fresh mint leaves, finely chopped",  "3 medium tomatoes, diced",  "1 small red onion, finely chopped",  "1/4 cup extra-virgin olive oil",  "1/4 cup fresh lemon juice",  "1 tsp salt",  "1/2 tsp black pepper"],

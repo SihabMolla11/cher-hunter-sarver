@@ -10,6 +10,7 @@
         "detail": "Huffton follows three men: a television show chef, Nusrat Mahdi—a man who does not have work, while his wife does, Mahmud Mansur—and a recipe book writer, Fadi Baahir. Through interviews and taking a scope into their lives, the director unveils the rising focus on culinary arts as a vocation for men in modern Saudi Arabia. The stories illustrate there is a backlash against these reformations of gender roles. Strict religious Islamic figures, such as from the school of Hanbali thought, have raised concerns with the scaling back of gender norms (Fredrick 253). No riots have begun as of yet, but petitions have been made to King Abdullah to cut the careers of two men mentioned beforehand: Nusrat Mahdi and Fadi Baahir (Said 56). Though this film provides an expert glimpse into the cultural habits of Saudi Arabia and the not-so-apparent social change in the vocation of culinary arts, the presentation of the cinematography could be largely enhanced. Some scenes are blurred, as in the backgrounds. This effect did create more attention on the characters, yet it disturbed my viewing of the film and seemed to be connected to more amateurish techniques of lens effects. Another conundrum that could be pointed out was that the stories of the characters could have been more prudent in their focus. Huffton chose to examine some rather unnecessary details in the lives of the characters, especially with the stay-at-home dad, Mahmud Mansur. Instead of concentrating on his cooking habits as the main attraction of this introduction as characters, the director supplied the viewers with details about his past history and extracurricular activities, which did not seem to tie into the theme of the documentary. I was impressed, though, by the characters’ candidness in light of being filmed in such a conservative country. The interviewees were fully open to explore their vocations and let no information be aside for later discussion. In this way, one can say this film is politically driven and is a plea for a shift in Saudi reasoning according to its future advancement socially. Although the country is ruled by an absolute monarchy, this does not mean it cannot change its gender norms in due time.",
         "recipes": [
           {
+            "_id": 1,
               "name": "FATTOUSH SALAD",
               "r_img": "https://www.sbs.com.au/food/sites/sbs.com.au.food/files/styles/full/public/fattoush-salad.jpg?itok=DADWsX6G",
               "ingredients":[
@@ -33,6 +34,7 @@
               "ratting": "4.0"
           },
           {
+            "_id": 2,
               "name": "SHAWARMA",
               "r_img": "https://img.taste.com.au/QNJv0BTv/w720-h480-cfill-q80/taste/2022/10/easy-lamb-shawarma-salad-182074-2.jpg",
               "ingredients":[
@@ -54,6 +56,7 @@
               "ratting": "4.9"
           },
           {
+            "_id": 3,
               "name": "BABA GHANOUSH",
               "r_img": "https://maninio.com/wp-content/uploads/2017/11/The-original-Arabic-Baba-Ganoush3.jpg",
               "ingredients":

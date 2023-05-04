@@ -10,6 +10,7 @@
         "detail": "Among the many accolades he has received, Al-Oraifi was hailed Best Saudi Chef at the 2018 Saudi Excellence in Tourism Awards and has worked in several international restaurants over the years. He has also taken part in several international cooking competitions, including Top Chef Middle East season two. In his work, Al-Oraifi especially likes to explore traditional Saudi cuisine, but infused with modern elements. His earliest memory of cooking goes back to making dolma with his mother. It is a dish I have been preparing since I was six. It was challenging to prepare it as a young kid, but I would always prepare it with my mom over the years and eventually learned to prepare it on my own, said Al-Oraifi in an interview with Arab News.",
         "recipes": [
           {
+              "_id": 1,
               "name": "MANSAF",
               "r_img": "https://cdn.theculturetrip.com/wp-content/uploads/2020/04/gettyimages-529753250-650x366.jpg",
               "ingredients": [
@@ -33,6 +34,7 @@
               "ratting": "4.2"
           },
           {
+              "_id": 2,
               "name": "FALAFEL",
               "r_img": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/5/13/0/FNK_Falafel_H1_s4x3.jpg.rend.hgtvcom.616.462.suffix/1557773603107.jpeg",
               "ingredients": [
@@ -59,6 +61,7 @@
               "ratting": "4.5"
           },
           {
+             "_id": 3,
               "name": "HUMMUS",
               "r_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSclseqjbwfDin83__pLGgPrIMggzeQ0XsXNw&usqp=CAU",
               "ingredients":[
